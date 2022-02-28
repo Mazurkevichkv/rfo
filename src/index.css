@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.country-icon
+{
+  width: 30px;
+  margin-left: 10px;
+}
+
+
+.rfo_table {
+  padding: 20px;
+}
+
+.expand-cell {
+  width: 100px;
+}
+
+td.red {
+  color: red;
+}
+
+td.green {
+  color: green;
+}
+
+td.yellow {
+  color: rgb(255, 153, 0);
+}
+
+td {
+  font-weight: 500!important;
+}
